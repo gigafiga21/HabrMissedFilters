@@ -7,3 +7,9 @@ This project uses [poetry](https://python-poetry.org/docs/) for managing depende
 poetry install
 ```
 If poetry is not located by shell but written in $PATH, try use poetry.bat instead (ocurred in `cygwin64` terminal).
+
+### For development
+To set up development environment additionally run:
+```sh
+make install
+```
