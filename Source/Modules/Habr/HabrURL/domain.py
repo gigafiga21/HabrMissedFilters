@@ -1,0 +1,1 @@
+domain = 'https://habr.com'
